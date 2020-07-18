@@ -27,6 +27,9 @@ projects:
     forks: true
     projects:
     - IMY320_Loners_2017
+    - AndreasNel
+    - todoist-box
+    - actions-playground
 
 social_media:
   # behance: your_username

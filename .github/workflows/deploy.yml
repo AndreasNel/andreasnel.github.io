@@ -23,5 +23,5 @@ jobs:
               name: New bump
               run: |
                   git commit --allow-empty -m 'bump'
-                  git push
+                  git push --force-with-lease
 
